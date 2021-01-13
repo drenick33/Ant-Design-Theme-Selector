@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { Table, Tag, Space } from 'antd';
 
 const { Column, ColumnGroup } = Table;
@@ -58,8 +58,8 @@ const TableComponent = (props: any) => {
         key='action'
         render={(text: any, record: any) => (
           <Space size='middle'>
-            <a>Invite {record.lastName}</a>
-            <a>Delete</a>
+            <a href='/'>Invite {record.lastName}</a>
+            <a href='/'>Delete</a>
           </Space>
         )}
       />

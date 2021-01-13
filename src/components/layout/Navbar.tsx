@@ -1,6 +1,5 @@
 import React from 'react';
 import { Menu, Button, Avatar } from 'antd';
-import { HomeOutlined } from '@ant-design/icons';
 import NavDrawer from './NavDrawer';
 
 const Navbar = () => {

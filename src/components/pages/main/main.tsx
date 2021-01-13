@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Card, Avatar, Col, Row, Tag, Button, Select, Switch } from 'antd';
+import React from 'react';
+import { Row, Select } from 'antd';
 import { useThemeSwitcher } from 'react-css-theme-switcher';
 import ButtonComponent from './button';
 import FormComponent from './form';
@@ -12,14 +12,11 @@ const { Option } = Select;
 
 const Main = (props: any) => {
   const { switcher, themes, currentTheme, status } = useThemeSwitcher();
-  const [isDarkMode, setIsDarkMode] = React.useState(false);
 
   if (status === 'loading') {
     return <div>Loading styles...</div>;
   }
 
-  console.log(themes);
-  console.log(currentTheme);
   const selectTheme = (newTheme: string) => {
     switcher({ theme: newTheme });
     localStorage.setItem('curTheme', newTheme);

@@ -1,8 +1,6 @@
-import React, { useState, useEffect } from 'react';
-import { Drawer, Select } from 'antd';
+import React, { useState } from 'react';
+import { Drawer } from 'antd';
 import { MenuOutlined } from '@ant-design/icons';
-
-const { Option } = Select;
 
 const NavDrawer = (props: any) => {
   const [visible, setVisible] = useState(false);

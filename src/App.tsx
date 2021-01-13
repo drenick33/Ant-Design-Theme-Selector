@@ -1,10 +1,10 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import './App.less';
 import Navbar from './components/layout/Navbar';
 import Main from './components/pages/main/main';
-import { Layout, Menu, Breadcrumb } from 'antd';
-const { Header, Content, Footer } = Layout;
+import { Layout } from 'antd';
+const { Footer } = Layout;
 
 function App() {
   return (
