@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ant-Design-Theme-Selector/static/css/main.1ed29ddc.chunk.css",
-    "main.js": "/Ant-Design-Theme-Selector/static/js/main.db423611.chunk.js",
-    "main.js.map": "/Ant-Design-Theme-Selector/static/js/main.db423611.chunk.js.map",
+    "main.js": "/Ant-Design-Theme-Selector/static/js/main.f27f0f9f.chunk.js",
+    "main.js.map": "/Ant-Design-Theme-Selector/static/js/main.f27f0f9f.chunk.js.map",
     "runtime-main.js": "/Ant-Design-Theme-Selector/static/js/runtime-main.5f32cdee.js",
     "runtime-main.js.map": "/Ant-Design-Theme-Selector/static/js/runtime-main.5f32cdee.js.map",
     "static/css/2.6414bb7b.chunk.css": "/Ant-Design-Theme-Selector/static/css/2.6414bb7b.chunk.css",
     "static/js/2.851a0464.chunk.js": "/Ant-Design-Theme-Selector/static/js/2.851a0464.chunk.js",
     "static/js/2.851a0464.chunk.js.map": "/Ant-Design-Theme-Selector/static/js/2.851a0464.chunk.js.map",
     "index.html": "/Ant-Design-Theme-Selector/index.html",
-    "precache-manifest.f1b8e7379eb26fdc27461aa13261264e.js": "/Ant-Design-Theme-Selector/precache-manifest.f1b8e7379eb26fdc27461aa13261264e.js",
+    "precache-manifest.cbb542ea2fdc4bc178f7a446ce803a29.js": "/Ant-Design-Theme-Selector/precache-manifest.cbb542ea2fdc4bc178f7a446ce803a29.js",
     "service-worker.js": "/Ant-Design-Theme-Selector/service-worker.js",
     "static/css/2.6414bb7b.chunk.css.map": "/Ant-Design-Theme-Selector/static/css/2.6414bb7b.chunk.css.map",
     "static/css/main.1ed29ddc.chunk.css.map": "/Ant-Design-Theme-Selector/static/css/main.1ed29ddc.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.6414bb7b.chunk.css",
     "static/js/2.851a0464.chunk.js",
     "static/css/main.1ed29ddc.chunk.css",
-    "static/js/main.db423611.chunk.js"
+    "static/js/main.f27f0f9f.chunk.js"
   ]
 }
