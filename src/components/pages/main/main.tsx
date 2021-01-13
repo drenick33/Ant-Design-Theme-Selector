@@ -11,7 +11,7 @@ import AlertComponent from './alert';
 const { Option } = Select;
 
 const Main = (props: any) => {
-  const { switcher, themes, currentTheme, status } = useThemeSwitcher();
+  const { switcher, currentTheme, status } = useThemeSwitcher();
 
   if (status === 'loading') {
     return <div>Loading styles...</div>;

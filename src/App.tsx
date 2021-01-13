@@ -14,7 +14,7 @@ function App() {
           <Navbar></Navbar>
         </header>
         <Switch>
-          <Route exact path='/' component={Main} />
+          <Route path='/' component={Main} />
         </Switch>
         <Footer style={{ textAlign: 'center' }}>
           Theme Previewer for AntDesign; Created by Daniel Renick
