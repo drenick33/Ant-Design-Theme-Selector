@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15e04b1ffb76dc487eed696f51dc9901",
+    "revision": "41e1a836088c17f8ded203d0d1e1247f",
     "url": "/Ant-Design-Theme-Selector/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ant-Design-Theme-Selector/static/css/2.6414bb7b.chunk.css"
   },
   {
-    "revision": "37f443b94646d0cb27d5",
+    "revision": "0c7b59f0b066ba508272",
     "url": "/Ant-Design-Theme-Selector/static/css/main.1ed29ddc.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ant-Design-Theme-Selector/static/js/2.851a0464.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37f443b94646d0cb27d5",
-    "url": "/Ant-Design-Theme-Selector/static/js/main.9def33ec.chunk.js"
+    "revision": "0c7b59f0b066ba508272",
+    "url": "/Ant-Design-Theme-Selector/static/js/main.db423611.chunk.js"
   },
   {
     "revision": "2390057dbee101ba39b4",
