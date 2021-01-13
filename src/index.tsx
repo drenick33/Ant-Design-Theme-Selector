@@ -13,6 +13,7 @@ const themes = {
   dracula: `${process.env.PUBLIC_URL}/dracula-theme.css`,
   monokai: `${process.env.PUBLIC_URL}/monokai-theme.css`,
   nord: `${process.env.PUBLIC_URL}/nord-theme.css`,
+  nordLight: `${process.env.PUBLIC_URL}/nordLight-theme.css`,
 };
 
 let curTheme = localStorage.getItem('curTheme') || '';

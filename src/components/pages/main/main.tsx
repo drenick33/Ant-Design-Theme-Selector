@@ -43,6 +43,7 @@ const Main = (props: any) => {
         <Option value='dracula'>Dracula</Option>
         <Option value='monokai'>Monokai</Option>
         <Option value='nord'>Nord</Option>
+        <Option value='nordLight'>Nord Light</Option>
       </Select>
       <Row
         gutter={4}
